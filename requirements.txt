@@ -1,0 +1,29 @@
+# Azure OpenAI and LangChain
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.20
+
+# Observability and Tracing
+opik>=0.1.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# PDF Processing
+pymupdf4llm>=0.0.1
+pypdf>=3.17.0
+
+# Text Splitting
+langchain-text-splitters>=0.0.1
+
+# Vector Store (PostgreSQL)
+langchain-postgres>=0.0.1
+psycopg[binary]>=3.1.0
+
+# Azure Document Intelligence
+azure-ai-documentintelligence>=1.0.0b1
+
+# Other dependencies
+requests>=2.31.0
+tenacity>=8.2.3
+typing-extensions>=4.9.0

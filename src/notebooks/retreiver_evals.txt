@@ -1,0 +1,20 @@
+What is the specific name of the proprietary display technology used in the SmartScribble?
+What is the maximum battery life of the device when in standby mode?
+How much internal storage does the SmartScribble come with?
+What is the weight of the SmartScribble device?
+What are the dimensions (thickness) of the device?
+What specific processor and RAM does the device utilize?
+List the six items included in the box.
+Which seven languages are currently supported for full OCR (Optical Character Recognition)?
+What are the four core value propositions listed in the Executive Summary?
+Which specific file formats does the SmartScribble support?
+What are the four third-party cloud platforms that SmartScribble integrates with?
+How does the "Writer's Block Breaker" feature function?
+Describe the process for using the "Expand" command on a keyword.
+How does the device handle data synchronization when it is offline and then reconnects?
+What is the difference in cost between the basic handwriting recognition and the "Advanced AI Expansion" feature?
+Based on the "University Student" scenario, how can the AI help with understanding specific terms in a lecture?
+Is the SmartScribble waterproof? Explain the IP rating and limitations.
+How does the display technology differ from standard LCD or OLED screens regarding eye strain?
+If a user has messy handwriting, how does the AI engine improve accuracy over time?
+What is the warranty coverage for a broken screen, and is it covered under the standard manufacturer warranty?
